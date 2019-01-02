@@ -44,7 +44,7 @@
     "eslint-plugin-ember": "^5.2.0",
     "loader.js": "^4.7.0",
     "qunit-dom": "^0.8.0",
-    "semantic-ui-ember": "^3.0.3"
+    "semantic-ui-ember": "git+https://git@github.com/jenweber/Semantic-UI-Ember.git"
   },
   "engines": {
     "node": "6.* || 8.* || >= 10.*"
